@@ -1,6 +1,6 @@
 BlastApi list
 
-#H1Avalanche
+Avalanche
 
 RPC
 
