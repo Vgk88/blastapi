@@ -1,4 +1,4 @@
-BlastApi list
+BlastApi list:
 
 Avalanche
 
